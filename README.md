@@ -48,3 +48,4 @@ I'll run automatic tests with these 3 Hosters on every version. Ubuntu 22.04 LTS
 - Add options to update Icecast KH itself
 - Change panel ports over installer
 - We need more?
+  - the backup integration ?
